@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMExample</string>
+    <string name="positiveButtonText">Ok</string>
+    <string name="errorDialogTitle">Ocurrió un error</string>
+</resources>
